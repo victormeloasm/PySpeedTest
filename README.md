@@ -56,20 +56,6 @@ python PySpeedTest.py
 
 PySpeedTest will automatically detect your location and find the closest Speedtest.net server for the test. You'll see real-time updates of your ping, download, and upload speeds.
 
-### Options
-
-- Use the `--server` option to specify a particular Speedtest.net server for testing:
-
-  ```bash
-  python PySpeedTest.py --server 12345
-  ```
-
-- For more options and information, run:
-
-  ```bash
-  python PySpeedTest.py --help
-  ```
-
 ## Contributing
 
 We welcome contributions from the community. If you'd like to contribute to PySpeedTest, please follow our [contribution guidelines](CONTRIBUTING.md).
