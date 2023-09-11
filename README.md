@@ -64,8 +64,8 @@ We welcome contributions from the community. If you'd like to contribute to PySp
 
 PySpeedTest is open-source software licensed under the [MIT License](LICENSE).
 
----
+
 
 **Note:** PySpeedTest is not affiliated with Speedtest.net or Ookla in any way. It's an independent project created for educational and diagnostic purposes.
-```
+
 
