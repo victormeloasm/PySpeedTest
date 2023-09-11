@@ -1,10 +1,6 @@
 # PySpeedTest
 
-![GitHub](https://img.shields.io/github/license/your-username/your-repository)
-![GitHub last commit](https://img.shields.io/github/last-commit/your-username/your-repository)
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/your-username/your-repository)
-
-![PySpeedTest Demo](PyTestSpeed.png)
+![PySpeedTest Demo](PySpeedTest.png)
 
 ## Overview
 
